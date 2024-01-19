@@ -43,3 +43,10 @@ Now, you can look at gaps between the overall research question and the research
   + pretraining/training strategies (what pretrained model to use; training objective (MLM)
   + deep learning architecture (vision-language pretraining)
   + problem formulation (e.g. take multiple images as input)
+
+
+## Iterating on your research ideas
++ search for whether your idea has been tried
++ read important related works and follow-up works
++ Get feedback from experts
+  
