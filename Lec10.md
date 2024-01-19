@@ -14,7 +14,8 @@ My ideas?
 + what is the hyperparameter's true meaning? can we infer the hyperparameter from the label-free data?
 + add human feedback? (from current point of view)
 
-## Analysis on the CheXzero paper 
+# Analysis on the CheXzero paper 
+## identify research gaps
 
 + Identify gaps in the research question
 + Identify gaps in the experimental setups
@@ -31,3 +32,14 @@ No need for supervised class label; instead the text in report data is useful, a
 
 ### identifying research gaps
 Now, you can look at gaps between the overall research question and the research hypotheses – what are hypotheses that have not been tested?
+
+
+## Generating Ideas For Building on a Research Paper
+
++ Change the task of interest
++ Change the evaluation strategy
++ change the proposed method (like most deep learning method papers)
+  + dataset format (another section of the radiology report)
+  + pretraining/training strategies (what pretrained model to use; training objective (MLM)
+  + deep learning architecture (vision-language pretraining)
+  + problem formulation (e.g. take multiple images as input)
